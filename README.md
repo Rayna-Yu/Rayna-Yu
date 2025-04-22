@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Rayna!
+
+Welcome to my GitHub! I'm an undergraduate student currently studying Computer Science and Math at Northeastern University. I am passionate about using technology for creative and impactful solutions. Whether it's building an AI-powered outfit recommendation model or diving into systems and AI research, I love exploring the intersection of code, creativity, and community.
+
+Current interests
+- Data Analysis & Machine Learning
+- Image processing through convolutional neural networks (CNN)
+- Hands-on with backend development and algorithm design
 
 <!--
 **Rayna-Yu/Rayna-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
